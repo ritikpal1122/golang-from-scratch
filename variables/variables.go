@@ -1,6 +1,7 @@
 package main
 
 func main() {
+	// var name of vriable and its type then its value
 	var name string = "Golang"
 	println(name)
 
@@ -16,4 +17,5 @@ func main() {
 	// Short declaration
 	age := 10 // we use this when we have to declare and use its value at the same time
 	println(age)
+
 }
