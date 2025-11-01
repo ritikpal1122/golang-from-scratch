@@ -59,4 +59,15 @@ func main() {
 	var y float64 = float64(x)
 	fmt.Println(y)
 
+	// type
+
+	// constants
+	// contant have some properties
+	// cannot be changed, cannot use := to declare constant , must be assigned a value
+
+	// a constant is declared using the const keyword , it can be string , bool , number
+
+	const pi float64 = 3.14
+	fmt.Println(pi)
+
 }
